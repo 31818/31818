@@ -4,8 +4,6 @@
 
 ## 警告
 
-新版本：https://github.com/233boy/v2ray/tree/master
-
 除非你有特殊需求，要不然请尽量不要使用此版本。
 
 ## 安装
