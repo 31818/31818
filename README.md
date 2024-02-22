@@ -4,9 +4,7 @@
 
 ## 警告
 
-此脚本版本已废弃，不再添加任何功能，也不修复任何问题。
-
-请使用：https://github.com/233boy/v2ray/tree/master
+新版本：https://github.com/233boy/v2ray/tree/master
 
 除非你有特殊需求，要不然请尽量不要使用此版本。
 
