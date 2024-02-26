@@ -1,10 +1,10 @@
 ## 说明
 
-这是一个固定 v4.45.2 版本的 V2RAY 脚本安装, 避免一些莫名其妙无法运行的问题。
+This is a fixed version 4.45.2 script to avoid some inexplicable issues that cannot be run.
 
 ## 警告
 
-除非你有特殊需求，要不然请尽量不要使用此版本。
+Unless you have special needs, please try not to use this version as much as possible.
 
 ## 安装
 
